@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:white;
+    border: 4px solid blue;
+    border-radius: 14px;
+    color: MidnightBlue;
+    padding: 6px;
+}
+header a {
+    border: 1px solid blue;
+    color:white;
+    border-radius: 8px;
+    background-color: blue;
+    padding: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 10px;
+    text-decoration: none;
+    }
+header b {
+    margin-left: 4px;
+}
+main h1 {
+    color:DarkOrange;
+    text-align:center;
+    border: 4px solid purple;
+    border-radius: 23px;
+    padding: 5px;
+   
+}
+footer {
+    background-color: rgb(246, 196, 246);
+    padding: 3px;
+    }
+   
+footer p {
+    background-color: white;
+    margin: 10px;
+    padding: 3px;
+    padding-left: 8px;
+}
+.tvar {
+    padding-left: 30px;
+}
+nav{
+    background-color: white;
+    margin: 15px;
+}
+nav a {
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 11px;
+    padding: 4px;
+    margin: 10px;
+    margin-left: 50px ;
+    color: white;
+    background-color: blue;
+}
+.urod {
+    background-color: white;
+    color: blue;}
+    
+.ruuaarrr{
+    border: 1px solid rgb(209, 113, 96);
+    background-color: rgb(209, 113, 96);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+h2 {
+    color: blue;
+}
+a { 
+    text-decoration: none;
+    border: 2px solid blue;
+    padding: 5px;
+
+
+}
+h2 {
+    background-color: Lavender;
+}
+h1 {
+    background-color: LemonChiffon;
+}
